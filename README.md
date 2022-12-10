@@ -1,6 +1,6 @@
 # Image Similarity
 
-This project is for finding similarity images in the directory.
+This project is for finding similar images in the directory.
 
 ## Prepare
 
